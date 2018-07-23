@@ -33,4 +33,4 @@ It will be already included in ``Uraia Game Kit for Essentials 16.2``
 
 You can get more information at ``Uraia Game Kit Wiki``
 
-Link is : https://ugamekit.wikia.com/wiki/Uraia_Game_Kit_Wiki
+Link is : https://ugamekit.wikia.com/wiki/Main_Page
